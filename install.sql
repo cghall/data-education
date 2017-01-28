@@ -25,9 +25,18 @@ CREATE TABLE School.Information(
 
 CREATE TABLE School.Progress(
   SchoolID INT NOT NULL REFERENCES School.Information,
-  Progress8 varchar(25),
-  Year varchar(4) NOT NULL
+  Progress8 REAL,
+  Year varchar(4) NOT NULL,
+  RankAsc INT,
+  RankDesc INT, 
+  PercentileAsc REAL,
+  PercentileDesc REAL
 );
 
 \copy School.Information(SchoolID, LocalAuthority, SchoolName, Street, Locality, Town, Postcode) FROM './out/school_information.csv' DELIMITER ',' CSV HEADER;
-\copy School.Progress(SchoolID, Progress8, Year) FROM './out/school_progress.csv' DELIMITER ',' CSV HEADER;
+\copy School.Progress(SchoolID, Progress8, Year, RankAsc, RankDesc, PercentileAsc, PercentileDesc) FROM './out/school_progress.csv' DELIMITER ',' CSV HEADER;
+
+CREATE VIEW Progress8Results AS
+  SELECT SchoolName, Progress8, RankAsc, PercentileAsc, Year
+  FROM School.Information, School.Progress
+  WHERE School.Progress.SchoolID = School.Information.SchoolID;
