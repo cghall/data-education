@@ -1,0 +1,153 @@
+LEA_CODE,LEA_NAME,LEA_REGION
+201,City of London,London
+202,Camden,London
+203,Greenwich,London
+204,Hackney,London
+205,Hammersmith and Fulham,London
+206,Islington,London
+207,Kensington and Chelsea,London
+208,Lambeth,London
+209,Lewisham,London
+210,Southwark,London
+211,Tower Hamlets,London
+212,Wandsworth,London
+213,Westminster,London
+301,Barking and Dagenham,London
+302,Barnet,London
+303,Bexley,London
+304,Brent,London
+305,Bromley,London
+306,Croydon,London
+307,Ealing,London
+308,Enfield,London
+309,Haringey,London
+310,Harrow,London
+311,Havering,London
+312,Hillingdon,London
+313,Hounslow,London
+314,Kingston upon Thames,London
+315,Merton,London
+316,Newham,London
+317,Redbridge,London
+318,Richmond upon Thames,London
+319,Sutton,London
+320,Waltham Forest,London
+330,Birmingham,West Midlands
+331,Coventry,West Midlands
+332,Dudley,West Midlands
+333,Sandwell,West Midlands
+334,Solihull,West Midlands
+335,Walsall,West Midlands
+336,Wolverhampton,West Midlands
+340,Knowsley,North West
+341,Liverpool,North West
+342,St Helens,North West
+343,Sefton,North West
+344,Wirral,North West
+350,Bolton,North West
+351,Bury,North West
+352,Manchester,North West
+353,Oldham,North West
+354,Rochdale,North West
+355,Salford,North West
+356,Stockport,North West
+357,Tameside,North West
+358,Trafford,North West
+359,Wigan,North West
+370,Barnsley,Yorkshire & Humberside
+371,Doncaster,Yorkshire & Humberside
+372,Rotherham,Yorkshire & Humberside
+373,Sheffield,Yorkshire & Humberside
+380,Bradford,Yorkshire & Humberside
+381,Calderdale,Yorkshire & Humberside
+382,Kirklees,Yorkshire & Humberside
+383,Leeds,Yorkshire & Humberside
+384,Wakefield,Yorkshire & Humberside
+390,Gateshead,North East
+391,Newcastle upon Tyne,North East
+392,North Tyneside,North East
+393,South Tyneside,North East
+394,Sunderland,North East
+420,Isles of Scilly,South West
+800,Bath and North East Somerset,South West
+801,Bristol,South West
+802,North Somerset,South West
+803,South Gloucestershire,South West
+805,Hartlepool,North East
+806,Middlesbrough,North East
+807,Redcar and Cleveland,North East
+808,Stockton-on-Tees,North East
+810,Kingston upon Hull,Yorkshire & Humberside
+811,East Riding of Yorkshire,Yorkshire & Humberside
+812,North East Lincolnshire,Yorkshire & Humberside
+813,North Lincolnshire,Yorkshire & Humberside
+815,North Yorkshire,Yorkshire & Humberside
+816,York,Yorkshire & Humberside
+821,Luton,Eastern England
+822,Bedford,Eastern England
+823,Central Bedfordshire,Eastern England
+825,Buckinghamshire,South East
+826,Milton Keynes,South East
+830,Derbyshire,East Midlands
+831,Derby,East Midlands
+835,Dorset,South West
+836,Poole,South West
+837,Bournemouth,South West
+840,Durham,North East
+841,Darlington,North East
+845,East Sussex,South East
+846,Brighton and Hove,South East
+850,Hampshire,South East
+851,Portsmouth,South East
+852,Southampton,South East
+855,Leicestershire,East Midlands
+856,Leicester,East Midlands
+857,Rutland,East Midlands
+860,Staffordshire,West Midlands
+861,Stoke-on-Trent,West Midlands
+865,Wiltshire,South West
+866,Swindon,South West
+867,Bracknell Forest,South East
+868,Windsor and Maidenhead,South East
+869,West Berkshire,South East
+870,Reading,South East
+871,Slough,South East
+872,Wokingham,South East
+873,Cambridgeshire,Eastern England
+874,Peterborough,Eastern England
+876,Halton,North West
+877,Warrington,North West
+878,Devon,South West
+879,Plymouth,South West
+880,Torbay,South West
+881,Essex,Eastern England
+882,Southend on Sea,Eastern England
+883,Thurrock,Eastern England
+884,Herefordshire,West Midlands
+885,Worcestershire,West Midlands
+886,Kent,South East
+887,Medway,South East
+888,Lancashire,North West
+889,Blackburn with Darwen,North West
+890,Blackpool,North West
+891,Nottinghamshire,East Midlands
+892,Nottingham,East Midlands
+893,Shropshire,West Midlands
+894,Telford and Wrekin,West Midlands
+895,Cheshire East,North West
+896,Cheshire West and Chester,North West
+908,Cornwall,South West
+909,Cumbria,North West
+916,Gloucestershire,South West
+919,Hertfordshire,Eastern England
+921,Isle of Wight,South East
+925,Lincolnshire,East Midlands
+926,Norfolk,Eastern England
+928,Northamptonshire,East Midlands
+929,Northumberland,North East
+931,Oxfordshire,South East
+933,Somerset,South West
+935,Suffolk,Eastern England
+936,Surrey,South East
+937,Warwickshire,West Midlands
+938,West Sussex,South East

@@ -2,7 +2,7 @@ import pandas as pd
 
 spine = pd.read_csv('./raw/england_spine.csv', dtype={'URN': str})
 
-school_information = spine[['URN', 'SCHNAME', 'STREET', 'LOCALITY', 'TOWN', 'POSTCODE']]
+school_information = spine[['URN', 'LA', 'SCHNAME', 'STREET', 'LOCALITY', 'TOWN', 'POSTCODE']]
 school_information.to_csv('./out/school_information.csv', index=False)
 
 ks4 = pd.read_csv('./raw/england_ks4revised.csv', dtype={'URN': str})
